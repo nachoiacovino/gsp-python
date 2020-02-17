@@ -2,11 +2,11 @@
 
 Install the requirements inside the project with
 
-### pip install -r requirements.txt
+### `pip install -r requirements.txt`
 
 This project is a gender prediction tool, there is an input CSV and the when you run the file with
 
-### py **init**.py
+### `py **init**.py`
 
 you get everything from the input.csv, pass it for the gender_model and get a level of confidence for man/woman, we store this in a prediction column and the higher one in a confidence column in another file called results.csv
 
