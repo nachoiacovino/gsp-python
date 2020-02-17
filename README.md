@@ -1,3 +1,5 @@
+# Python Gender Model
+
 Install the requirements inside the project with
 
 ### pip install -r requirements.txt
@@ -10,4 +12,4 @@ you get everything from the input.csv, pass it for the gender_model and get a le
 
 Lastly, there's a function that calculates how many predictions were accurate, because we know beforehand if they are male/female, we can know how many predictions were corrected and the percentage is printed on the console.
 
-# Note: The model will output a slightly different value each time you run a prediction.
+Note: The model will output a slightly different value each time you run a prediction.
